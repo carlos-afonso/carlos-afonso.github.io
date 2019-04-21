@@ -1,5 +1,5 @@
-# carlos-afonso.github.io
+# Carlos Afonso
 
-[About](about.md)
+Data Scientist with diverse corporate consulting experience and multidisciplinary scientific background.
 
-Testing GitHub Pages...
+Passionate about leveraging Data Science to find, create, and communicate insightful and beautiful solutions for complex problems.
