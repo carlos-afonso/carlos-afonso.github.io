@@ -6,4 +6,4 @@
 
 Helping understand the current Measles Outbreak by transforming raw data into helpful visualizations.
 
-https://carlos-afonso.github.io/measles/
+See: [https://carlos-afonso.github.io/measles/](https://carlos-afonso.github.io/measles/){:target="&#95;blank" rel="noopener"}
