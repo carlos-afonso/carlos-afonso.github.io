@@ -1,6 +1,6 @@
 # Carlos Afonso
 
-[LinkedIn](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}
+Contact / Profile: [LinkedIn](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}
 
 ## Visualizing the 2019 Measles Outbreak
 
