@@ -1,9 +1,15 @@
 # Carlos Afonso
 
-Contact / Profile: [LinkedIn](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"}
+[LinkedIn](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"} | [GitHub](https://github.com/carlos-afonso){:target="&#95;blank" rel="noopener"}
 
-## Visualizing the 2019 Measles Outbreak
+Data Scientist with diverse corporate consulting experience and multidisciplinary STEM background.
 
-Helping understand the current Measles Outbreak by transforming raw data into helpful visualizations.
+Passionate about leveraging Data Science to find, create, and communicate insightful and beautiful solutions for complex problems.
 
-See: [https://carlos-afonso.github.io/measles/](https://carlos-afonso.github.io/measles/){:target="&#95;blank" rel="noopener"}
+## Projects
+
+### Visualizing the 2019 Measles Outbreak
+
+Helping understand the current measles outbreak by transforming its raw data into visualizations.
+
+See: [https://carlos-afonso.github.io/measles](https://carlos-afonso.github.io/measles){:target="&#95;blank" rel="noopener"}
