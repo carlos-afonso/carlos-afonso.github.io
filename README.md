@@ -4,7 +4,7 @@
 
 Data Scientist with diverse corporate consulting experience and multidisciplinary STEM background.
 
-Passionate about leveraging Data Science to find, create, and communicate insightful and beautiful solutions for complex problems.
+Passionate about leveraging Data Science to create insightful solutions for complex problems.
 
 ## Projects
 
