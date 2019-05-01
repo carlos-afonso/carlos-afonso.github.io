@@ -1,5 +1,4 @@
 # Carlos Afonso
-
 [LinkedIn](https://www.linkedin.com/in/carlos-afonso-w){:target="&#95;blank" rel="noopener"} | [GitHub](https://github.com/carlos-afonso){:target="&#95;blank" rel="noopener"}
 
 Data Scientist with diverse corporate consulting experience and multidisciplinary STEM background.
