@@ -12,4 +12,4 @@ Passionate about leveraging Data Science to create insightful solutions for comp
 
 Helping understand the current measles outbreak by transforming its raw data into visualizations.
 
-See: [https://carlos-afonso.github.io/measles](https://carlos-afonso.github.io/measles){:target="&#95;blank" rel="noopener"}
+See all visualizations here: [https://carlos-afonso.github.io/measles](https://carlos-afonso.github.io/measles){:target="&#95;blank" rel="noopener"}
