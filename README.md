@@ -14,11 +14,8 @@ Helping understand the current measles outbreak by transforming its raw data int
 
 See all visualizations and details in the project webpage: [https://carlos-afonso.github.io/measles](https://carlos-afonso.github.io/measles){:target="&#95;blank" rel="noopener"}
 
-| [NYC Measles Cases by Neighborhood](../measles/images/nyc_measles_cases_by_neighborhood_map_all-new_py.gif) | [NYC New Measles Cases by Month](../measles/images/nyc_new_measles_cases_by_month_barchart_py.svg) |
-| [NYC Measles Cases by Age](../measles/images/nyc_measles_cases_by_age_barchart_py.svg)> | [NYC Measles Cases by Vaccination Status](../measles/images/nyc_measles_cases_by_vaccination_status_barchart_py.svg) |
-
-| <img src="../measles/images/nyc_measles_cases_by_neighborhood_map_all-new_py.gif" alt="NYC Measles Cases by Neighborhood"> | <img src="../measles/images/nyc_new_measles_cases_by_month_barchart_py.svg" alt="NYC New Measles Cases by Month"> |
-| <img src="../measles/images/nyc_measles_cases_by_age_barchart_py.svg" alt="NYC Measles Cases by Age"> | <img src="../measles/images/nyc_measles_cases_by_vaccination_status_barchart_py.svg" alt="NYC Measles Cases by Vaccination Status"> |
+| ![NYC Measles Cases by Neighborhood](../measles/images/nyc_measles_cases_by_neighborhood_map_all-new_py.gif) | ![NYC New Measles Cases by Month](../measles/images/nyc_new_measles_cases_by_month_barchart_py.svg) |
+| ![NYC Measles Cases by Age](../measles/images/nyc_measles_cases_by_age_barchart_py.svg) | ![NYC Measles Cases by Vaccination Status](../measles/images/nyc_measles_cases_by_vaccination_status_barchart_py.svg) |
 
 <img src="../measles/images/nyc_measles_cases_by_neighborhood_map_all-new_py.gif" alt="NYC Measles Cases by Neighborhood" style="max-width:500px; width:46%; height:auto; border:1px solid black; padding:1%;"> <img src="../measles/images/nyc_new_measles_cases_by_month_barchart_py.svg" alt="NYC New Measles Cases by Month" style="max-width:500px; width:46%; height:auto; border:1px solid black; padding:1%;">
 
